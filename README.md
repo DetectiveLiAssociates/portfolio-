@@ -39,7 +39,7 @@ A Lightweight Lightning-Whip Tester with 200+ Parameters for 42's Rank-03 ./mini
 
 - Per Seniors' Guidance, BASH STDIN output would not be tested - thus your detour away from any STDIN mode by directing it into Error-Handling mode is appreciated as well.  
 
-- Judge of Hell only test input parameters; and doesn't test your minishell History, CTRL-C, CTRL-D, and CTRL-\ hardware-based input prerequisites - which must be tested manually on your own.
+- Judge of Hell only test input parameters; and doesn't test your minishell History, the Sorted ENV Variables, CTRL-C, CTRL-D, and CTRL-\ hardware-based input prerequisites - those which must be tested manually on your own.
 
 - Judge of Hell does not test Bonus Level parts; and does not test beyond the scope of the instructed seven(7)-Mandatory Built-ins prerequisites: echo with -n flag, cd, pwd, env, export, unset, exit. Per one Senior's advice, as well as per instruction stated inside the minishell manual .pdf - always do remember that: minishell is just a Mini-Shell, and NOT a Full-Blown Shell.
 
