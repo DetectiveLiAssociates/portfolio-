@@ -27,7 +27,7 @@ A Lightweight Lightning-Whip Tester with 200+ Parameters for 42's Rank-03 ./mini
 
 - Choose: **Download**
 
-- Once fully-downloaded, check your Downloads/ folder; then move it into your main minishell/ folder
+- Once fully-downloaded, check your *Downloads/* folder; then move it into your main *minishell/* folder
 
 ## Technical
 
