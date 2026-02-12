@@ -15,7 +15,7 @@ A Lightweight Lightning-Whip Tester with 200+ Parameters for 42's Rank-03 ./mini
 
 - make - your your minishell.c using your own Makefile into an executable ./minishell
 
-- It's because, Judge of Hell will only run by **LIVE** Test-Driving your minishell during the Testing
+- It's because, Judge of Hell will only run by Test-Driving your minishell **LIVE** during the Testing
 
 - The Final Step is >>> Just RUN:   ./judge-of-hell
 
