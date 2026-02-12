@@ -43,7 +43,7 @@ A Lightweight Lightning-Whip Tester with 200+ Parameters for 42's Rank-03 ./mini
 
 - At the end of the testing, Judge of Hell would appreciate your minishell performance in a short summary, based on how many successes and fails your minishell did; plus - the projected average percentage(%) score.
 
-- Judge of Hell was packed with 'special' sense of dark humor as part of a relaxing work culture. Feel free to laugh along.
+- Judge of Hell was packed with 'special' sense of dark humor as part of a relaxing work culture. Feel free to laugh along the way.
 
 Cheers!
 
