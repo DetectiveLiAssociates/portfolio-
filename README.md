@@ -41,7 +41,7 @@ A Lightweight Lightning-Whip Tester with 200+ Parameters for 42's Rank-03 ./mini
 
 - Results from the LIVE Test-Run - including the comparative BASH Exit Signal from your minishell - are Displayed within each of the consecutive testing-parameter columns.
 
-- Per Seniors' Guidance, BASH STDIN output would not be tested - thus your detour away from any STDIN mode by directing it into Error-Handling mode is well-acknowledged.  
+- Per Seniors' Guidance, BASH STDIN output would not be tested - thus your detour away from any STDIN mode by redirecting it into Error-Handling mode is well-acknowledged.  
 
 - Judge of Hell only comes in its solid binary file to secure the Integrity of all Testing Materials compiled inside - from any possible external breach.
 
