@@ -45,7 +45,7 @@ A Lightweight Lightning-Whip Tester with 200+ Parameters for 42's Rank-03 ./mini
 
 - Judge of Hell only comes in its solid binary file to secure the Integrity of all Testing Materials compiled inside - from any possible external manipulative breach.
 
-- Judge of Hell does not test Bonus Level parts; and does not test your minishell adrift beyond the scope of the instructed seven(7)-Mandatory Built-ins prerequisites: ***echo with -n flag, cd, pwd, env, export, unset, exit.*** Meanwhile, additional operational attributes of redirections, $?, single-quotes, double-quotes, *alike* - are regarded as conclusive complementaries. Per recent Senior's advice, as well as per instruction stated inside the minishell manual .pdf - it's for us to always remember that: *minishell is just a Mini-Shell, NOT a Full-Blown Shell*.
+- Judge of Hell does not test Bonus Level parts; and does not test your minishell adrift beyond the scope of the instructed seven(7)-Mandatory Built-ins prerequisites: ***echo with -n flag, cd, pwd, env, export, unset, exit.*** Meanwhile, additional operational attributes of redirections, $?, single-quotes, double-quotes, *alike* - are regarded as conclusive complementaries. Per recent Senior's advice, as well as per instruction stated inside the minishell manual .pdf - it is for us to always bear in mind that: *minishell is just a Mini-Shell, NOT a Full-Blown Shell*.
 
 - At the end of each testing, Judge of Hell would appreciate your minishell performance in the form of a comprehensive metric-summary, based on how many successes and fails your minishell did; plus - the projected average percentage(%) score.
 
