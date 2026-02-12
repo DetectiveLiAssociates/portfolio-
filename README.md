@@ -51,7 +51,7 @@ A Lightweight Lightning-Whip Tester with 200+ Parameters for 42's Rank-03 ./mini
 
 - At the end of each testing, all junk files and memories used for testing purposes would be cleared automatically. No hangover.
 
-- Judge of Hell was packed with 'special' sense of gothic dark humor as part of a relaxing work culture. Feel free to laugh along the way.
+- Judge of Hell was packed with sense of gothic dark humor as part of a relaxing work culture. Feel free to laugh along the way.
 
 - This is where your minishell nightmare meets the real elm-street from the Twilight-Zone!
 
