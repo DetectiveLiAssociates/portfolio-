@@ -15,7 +15,7 @@ A Lightweight Lightning-Whip Tester with 200+ Parameters for 42's Rank-03 ./mini
 
 - make - your minishell.c into executable ./minishell - using your own Makefile
 
-- It's because, ./Judge of Hell will Test-Drive your minishell **LIVE** during the Testing
+- It's because, ./Judge of Hell will Test-Drive your minishell **LIVE** during the Testing; and you can watch 'your miniFKNshell' in-action - real-time - on your screen.
 
 - The Final Step is >>> Just CALL 1-800-:   ./judge-of-hell
 
