@@ -13,7 +13,7 @@ A Lightweight Lightning-Whip Tester with 200+ Parameters for 42's Rank-03 ./mini
 
 - Place ./judge-of-hell into the same directory level as your main minishell.c ( ./minishell )
 
-- make - your minishell.c into an executable ./minishell - using your own Makefile
+- make - your minishell.c into an executable ./minishell - using your own Makefile (builder)
 
 - It's because, ./Judge of Hell will Test-Drive your minishell **LIVE** during the Testing
 
