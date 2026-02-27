@@ -27,7 +27,7 @@ A Lightweight Lightning-Whip Tester with 200+ Parameters for 42's Rank-03 ./mini
 
 - Q: "How can I know the performance result of my minishell program against each given testing parameter?"
 
-- A: "EASY!" - since ./judge-of-hell will Test-Drive and Execute your miniFKNshell LIVE - you can watch how 'your miniFKNshell' performs in-action against each given testing-parameter - In Real-Time - on your screen. Once all completed, you could always review the transparent results in-details by scrolling-up your bleeding screen. Furthermore, upon reaching the finale, you could also see the total average score achieved, based on how many mistakes your miniFKNshell did. 
+- A: "EASY!" - since ./judge-of-hell will Test-Drive and Execute your miniFKNshell LIVE - you can watch how 'your miniFKNshell' performs in-action against each given testing-parameter - In Real-Time - on your screen. Once all completed, you could always review the transparent results in-details by scrolling-up your bloody bleeding screen. Furthermore, upon reaching the finale, you could also see the total average score achieved, based on how many mistakes your miniFKNshell did. 
 
 ## How to Download
 
