@@ -55,7 +55,7 @@ A Lightweight Lightning-Whip Tester with 200+ Parameters for 42's Rank-03 ./mini
 
 - Per Seniors' Guidance, BASH STDIN output would not be tested - thus your detour, away from any STDIN mode by redirecting it into Error-Handling mode is welcome.  
 
-- Judge of Hell only comes in its standalone binary file to secure the Integrity of all Testing Materials compiled inside - from any possible external breach.
+- Judge of Hell only comes in its standalone executable binary file to secure the Integrity of all Testing Materials compiled inside - from any possible external breach.
 
 - Judge of Hell only tests input parameters; and doesn't test your minishell History, Sorted ENV Variables, Memory Leakage, *NORMINETTE*-dressings, CTRL-C, CTRL-D, and CTRL-\ hardware-based inputs - which must be tested manually on your own.
 
