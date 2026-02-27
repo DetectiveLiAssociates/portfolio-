@@ -21,9 +21,9 @@ A Lightweight Lightning-Whip Tester with 200+ Parameters for 42's Rank-03 ./mini
 
 ## FAQ (Frequently Asked Question)
 
-- Question: Does it need to be in a somekind of folder?
+- Question: "Does it need to be in a somekind of folder?"
 
-- Answer: NOPE! ./judge-of-hell is a binary file - you don't need to make or create any folder. Just place it at the same level with - or - next to where your main ./minishell is - and then run the Judge: ./judge-of-hell    ...as simple as that. 
+- Answer: "NOPE!" - ./judge-of-hell is a binary file - you don't need to make or create any folder.  Just place it at the same level with - or - next to where your main ./minishell is - and then run the Judge: ./judge-of-hell    ...as simple as that. 
 
 ## How to Download
 
