@@ -13,7 +13,7 @@ A Lightweight Lightning-Whip Tester with 200+ Parameters for 42's Rank-03 ./mini
 
 - Place ./judge-of-hell into the same directory level as your main minishell.c ( ./minishell )
 
-- make - your minishell.c into executable ./minishell - using your own Makefile
+- make - your minishell.c into an executable ./minishell - using your own Makefile
 
 - It's because, ./Judge of Hell will Test-Drive your minishell **LIVE** during the Testing
 
@@ -23,7 +23,7 @@ A Lightweight Lightning-Whip Tester with 200+ Parameters for 42's Rank-03 ./mini
 
 - Q: "Does it need to be in a somekind of folder?"
 
-- A: "NOPE!" - ./judge-of-hell is already a binary file - you don't need to make or to hustle in order to build it anymore; and you don't need to create any 'special' folder for it - at all! - Just place it at the same level with - or - next to where your main ./minishell is - and then run the Judge, by typing: ./judge-of-hell    ...as simple as that - zero fuss.
+- A: "NOPE!" - ./judge-of-hell is already an executable binary file - you don't need to make or to hustle in order to build it anymore; and you don't need to create any 'special' folder for it - at all! - Just place it at the same level with - or - next to where your main ./minishell is - and then run the Judge, by typing: ./judge-of-hell    ...as simple as that - less hassle, zero fuss.
 
 - Q: "How can I know the performance result of my minishell program against each given testing parameter?"
 
