@@ -15,9 +15,15 @@ A Lightweight Lightning-Whip Tester with 200+ Parameters for 42's Rank-03 ./mini
 
 - make - your minishell.c into executable ./minishell - using your own Makefile
 
-- It's because, Judge of Hell will Test-Drive your minishell **LIVE** during the Testing
+- It's because, ./Judge of Hell will Test-Drive your minishell **LIVE** during the Testing
 
 - The Final Step is >>> Just CALL 1-800-:   ./judge-of-hell
+
+## FAQ (Frequently Asked Question)
+
+- Question: Does it need to be in a somekind of folder?
+
+- Answer: NOPE! ./judge-of-hell is a binary file - you don't need to make or create any folder. Just place it at the same level with - or - next to where your main ./minishell is - and then run the Judge: ./judge-of-hell    ...as simple as that. 
 
 ## How to Download
 
