@@ -25,9 +25,9 @@ A Lightweight Lightning-Whip Tester with 200+ Parameters for 42's Rank-03 ./mini
 
 - A: "NOPE!" - ./judge-of-hell is already a binary file - you don't need to make or to hustle in order to build it anymore; and you don't need to create any 'special' folder for it - at all! - Just place it at the same level with - or - next to where your main ./minishell is - and then run the Judge, by typing: ./judge-of-hell    ...as simple as that - zero fuss.
 
-- Q: "How can I know the performance result of my minishell program?"
+- Q: "How can I know the performance result of my minishell program against each given testing parameter?"
 
-- A: "EASY!" - since ./judge-of-hell will Test-Drive and Execute your miniFKNshell LIVE - you can watch how 'your miniFKNshell' performs in-action against each given testing-parameter - In Real-Time - on your screen. Once all completed, you could always review the transparent results in-details by scrolling up your screen.
+- A: "EASY!" - since ./judge-of-hell will Test-Drive and Execute your miniFKNshell LIVE - you can watch how 'your miniFKNshell' performs in-action against each given testing-parameter - In Real-Time - on your screen. Once all completed, you could always review the transparent results in-details by scrolling up your screen. Furthermore, at upon the total testing completion, you could also see the average scores achieved, based on how many mistakes your miniFKNshell did. 
 
 ## How to Download
 
