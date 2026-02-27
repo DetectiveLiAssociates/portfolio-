@@ -27,7 +27,7 @@ A Lightweight Lightning-Whip Tester with 200+ Parameters for 42's Rank-03 ./mini
 
 - Q: "How can I know the performance result of my minishell program?"
 
-- A: "EASY!" - since ./judge-of-hell will Test-Drive and Execute your miniFKNshell LIVE - you can watch how 'your miniFKNshell' performs in-action against each given testing-parameter - In Real-Time - on your screen. Once all completed, you could always review the detailed results by scrolling up your screen.
+- A: "EASY!" - since ./judge-of-hell will Test-Drive and Execute your miniFKNshell LIVE - you can watch how 'your miniFKNshell' performs in-action against each given testing-parameter - In Real-Time - on your screen. Once all completed, you could always review the transparent results in-details by scrolling up your screen.
 
 ## How to Download
 
@@ -47,7 +47,7 @@ A Lightweight Lightning-Whip Tester with 200+ Parameters for 42's Rank-03 ./mini
 
 - Judge of Hell will stress-test your minishell (without mercy) at the seven(7)-Mandatory prerequisite level with 200+ selected parameters, ranging from the simplest single service requests, to the intermediate level - reflecting exhaustive takes inspired by the infamous Dasha's minishell .pdf compilation, and up-to the most recent Extreme Mandatory-level testing parameters created by several generative . Hence, 'Triple-Fire icon' means 'Super-Spicy' - a.k.a - Extreme level.
 
-- Eversince Judge of Hell will only run by Test-Driving your minishell, you could easily observe the correlation event: if your minishell has severe undetected faulty and it crashed out afterr certain tested parameter/s, then Judge of Hell would also stop working. You could then spot the output display, what kind of testing parameter that causes such logical crash to your minishell.   
+- Eversince Judge of Hell will only run by Test-Driving your minishell, you could easily observe the correlation event: if your minishell has severe undetected faulty and it crashed out afterr certain tested parameter/s, then Judge of Hell would also stop working. You could then spot the output display, what kind of testing parameter that causes such logical crash to your minishell.  
 
 - Your Minishell Exit Signal will also be tested against the Standard BASH Exit Signal; thus your exit signal must meet the same Standard BASH value.
 
