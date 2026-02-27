@@ -19,7 +19,7 @@ A Lightweight Lightning-Whip Tester with 200+ Parameters for 42's Rank-03 ./mini
 
 - The Final Step is >>> Just CALL 1-800-:   ./judge-of-hell
 
-## Quick Curious FAQ (Frequently Asked Question)
+## Quick & Curious: FAQ (Frequently Asked Question)
 
 - Q: "Does it need to be in a somekind of folder?"
 
