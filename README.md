@@ -15,15 +15,19 @@ A Lightweight Lightning-Whip Tester with 200+ Parameters for 42's Rank-03 ./mini
 
 - make - your minishell.c into executable ./minishell - using your own Makefile
 
-- It's because, ./Judge of Hell will Test-Drive your minishell **LIVE** during the Testing; and you can watch 'your miniFKNshell' in-action - real-time - on your screen.
+- It's because, ./Judge of Hell will Test-Drive your minishell **LIVE** during the Testing
 
 - The Final Step is >>> Just CALL 1-800-:   ./judge-of-hell
 
 ## FAQ (Frequently Asked Question)
 
-- Question: "Does it need to be in a somekind of folder?"
+- Q: "Does it need to be in a somekind of folder?"
 
-- Answer: "NOPE!" - ./judge-of-hell is already a binary file - you don't need to make or to hustle in order to build it anymore; and you don't need to create any 'special' folder for it - at all! - Just place it at the same level with - or - next to where your main ./minishell is - and then run the Judge, by typing: ./judge-of-hell    ...as simple as that - zero fuss.
+- A: "NOPE!" - ./judge-of-hell is already a binary file - you don't need to make or to hustle in order to build it anymore; and you don't need to create any 'special' folder for it - at all! - Just place it at the same level with - or - next to where your main ./minishell is - and then run the Judge, by typing: ./judge-of-hell    ...as simple as that - zero fuss.
+
+- Q: "How can I know the performance result of my minishell program?"
+
+- A: "EASY!" - since ./judge-of-hell will Test-Drive and Execute your miniFKNshell LIVE - you can watch how 'your miniFKNshell' performs in-action against each given testing-parameter - In Real-Time - on your screen. Once all completed, you could always review the detailed results by scrolling up your screen.
 
 ## How to Download
 
